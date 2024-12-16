@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     <Test/>
-    <h2>just check</h2>
+    <h2>just checkedk</h2>
     </>
   )
 }
